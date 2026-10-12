@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Esuga — Useful tools. Built in the open.</title>
+  <desc id="desc">An understated ivory and green header with three layered workspace windows representing context, coordination, and building.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#b8c5bd"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="22" fill="#f6f7f3" stroke="#dce2da"/>
+  <circle cx="52" cy="55" r="4" fill="#227453"/>
+  <text x="68" y="60" fill="#45544a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">DANIEL ESUGA / @BOYEESU</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-2.5">
+    <text x="46" y="148" fill="#172b21">Useful tools.</text>
+    <text x="46" y="225" fill="#227453">Built in the open.</text>
+  </g>
+  <text x="49" y="291" fill="#58665d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.3">DEVELOPER TOOLS / AGENT WORKFLOWS / OPEN SOURCE</text>
+  <rect x="810" y="35" width="352" height="270" fill="url(#dots)" opacity="0.6"/>
+  <g stroke-width="1.5">
+    <rect x="952" y="55" width="180" height="120" rx="10" fill="#e4eee5" stroke="#a4baa8"/>
+    <path d="M952 86H1132" stroke="#b7caba"/>
+    <text x="968" y="75" fill="#4b6653" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" stroke="none">CONTEXT</text>
+    <g stroke="#7f9c87" stroke-linecap="round" stroke-width="3">
+      <path d="M1015 108H1109M1031 122H1109M1045 136H1088"/>
+    </g>
+    <rect x="902" y="105" width="180" height="120" rx="10" fill="#eff3ec" stroke="#9bb09f"/>
+    <path d="M902 136H1082" stroke="#c5d2c4"/>
+    <text x="918" y="125" fill="#4b6653" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" stroke="none">COORDINATE</text>
+    <path d="M977 168H1001L1025 190H1058M1001 168L1025 151H1058" fill="none" stroke="#73927a"/>
+    <g fill="#eff3ec" stroke="#73927a">
+      <circle cx="977" cy="168" r="4"/>
+      <circle cx="1058" cy="151" r="4"/>
+      <circle cx="1058" cy="190" r="4"/>
+    </g>
+    <rect x="852" y="156" width="180" height="120" rx="10" fill="#ffffff" stroke="#789e83"/>
+    <path d="M852 187H1032" stroke="#d2ddd0"/>
+    <g fill="#a4b5a4" stroke="none">
+      <circle cx="869" cy="172" r="2.5"/>
+      <circle cx="879" cy="172" r="2.5"/>
+      <circle cx="889" cy="172" r="2.5"/>
+    </g>
+    <text x="973" y="176" fill="#4b6653" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" stroke="none">BUILD</text>
+    <path d="M900 211L884 227L900 243M977 211L993 227L977 243M950 207L931 247" fill="none" stroke="#227453" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
