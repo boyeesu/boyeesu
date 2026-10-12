@@ -1,16 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Daniel Esuga — Useful tools. Built in the open." width="100%">
+  <img src="assets/header-light.svg" alt="Daniel Esuga — Product builder. Product leader. Fintech, AI, and developer tools." width="100%">
 </picture>
 
 <br>
 
-I'm **Daniel Esuga**, a builder based in **Nigeria**. I build open-source tools that help developers understand codebases, coordinate coding agents, and turn complex workflows into usable products.
+I'm **Daniel Esuga** — a **✦ product builder** and **✦ product leader** working across **fintech, AI, developer tools, and workflow software**.
 
-My work spans **developer tools**, **agent infrastructure**, and **practical AI**.
+I connect product strategy with hands-on execution, turning complex problems into useful products. Here you'll find the open-source side of that work.
 
-[Explore my projects](https://github.com/boyeesu?tab=repositories) · [Visit Kourti](https://kourti.com)
+[LinkedIn ↗](https://www.linkedin.com/in/esuga-daniel/) · [Email ↗](mailto:danielesuga@gmail.com) · [Explore my projects](https://github.com/boyeesu?tab=repositories)
 
 ## Selected work
 
@@ -51,20 +51,22 @@ An open-source workspace for matters, documents, clients, and deadlines — brin
 
 **[Explore the source ↗](https://github.com/boyeesu/Kourti)** · **[Visit kourti.com ↗](https://kourti.com)**
 
-## What connects the work
+## From idea to useful product
 
-- **Context:** make code, decisions, and evidence easier to find and understand.
-- **Coordination:** help people and agents work together with clearer boundaries.
-- **Usability:** turn complex systems into tools people can actually work with.
+- **Product thinking:** start with the problem, shape the opportunity, and define what matters.
+- **Hands-on building:** turn ideas into working software and learn from real use.
+- **Leadership:** bring clarity to priorities, decisions, and the path from concept to delivery.
 
 **Across these projects:** TypeScript · JavaScript · Python · Node.js · React · PostgreSQL
 
-## Build with me
+## Let's connect
 
-Trying one of these projects? Reproducible bug reports, thoughtful feedback, and focused contributions are welcome. Start with the project's README and open an issue in the relevant repository.
+For conversations about product building, fintech, AI, or open-source collaboration, find me on LinkedIn or send me an email.
 
-**[Find a project to explore ↗](https://github.com/boyeesu?tab=repositories)**
+**[LinkedIn ↗](https://www.linkedin.com/in/esuga-daniel/)** · **[danielesuga@gmail.com ↗](mailto:danielesuga@gmail.com)**
+
+Trying a project? Reproducible bug reports, thoughtful feedback, and focused contributions are welcome in its repository.
 
 ---
 
-<sub>Built in Nigeria. Shared in the open.</sub>
+<sub>Product thinking. Hands-on building. Shared in the open.</sub>

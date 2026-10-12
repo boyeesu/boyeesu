@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Daniel Esuga — Useful tools. Built in the open.</title>
+  <title id="title">Daniel Esuga — Product builder. Product leader.</title>
   <desc id="desc">An understated charcoal and mint header with three layered workspace windows representing context, coordination, and building.</desc>
   <defs>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
@@ -9,11 +9,15 @@
   <rect x="0.5" y="0.5" width="1199" height="339" rx="22" fill="#101813" stroke="#2b3c30"/>
   <circle cx="52" cy="55" r="4" fill="#8bdfae"/>
   <text x="68" y="60" fill="#a2b5a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">DANIEL ESUGA / @BOYEESU</text>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-2.5">
-    <text x="46" y="148" fill="#edf4ec">Useful tools.</text>
-    <text x="46" y="225" fill="#8bdfae">Built in the open.</text>
+  <g fill="#8bdfae">
+    <path d="M60 109L64 119L74 123L64 127L60 137L56 127L46 123L56 119Z"/>
+    <path d="M60 186L64 196L74 200L64 204L60 214L56 204L46 200L56 196Z"/>
   </g>
-  <text x="49" y="291" fill="#a2b5a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.3">DEVELOPER TOOLS / AGENT WORKFLOWS / OPEN SOURCE</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-2.5">
+    <text x="90" y="148" fill="#edf4ec">Product builder.</text>
+    <text x="90" y="225" fill="#8bdfae">Product leader.</text>
+  </g>
+  <text x="49" y="291" fill="#a2b5a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.3">FINTECH / AI / DEVELOPER TOOLS / WORKFLOW SOFTWARE</text>
   <rect x="810" y="35" width="352" height="270" fill="url(#dots)" opacity="0.8"/>
   <g stroke-width="1.5">
     <rect x="952" y="55" width="180" height="120" rx="10" fill="#1b3023" stroke="#43634c"/>
